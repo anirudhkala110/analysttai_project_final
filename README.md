@@ -4,6 +4,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### Run locally
+download or clone the repository to your local PC
+##### create a folder with the name of frontend and another folder with tha name of backend side by side with fronntend
+
+Cut and paste the data present in the backend folder of the repository to your local backend folder and other than that clone to frontend then run the following command
+### cd frontend
+### npm install
+### npm start
+
+## Also for the backend folder do the same steps
+### cd backend
+### npm install
+### nodemon or npm server.js
+
+Now open the browser and search for the localhost:3024
 In the project directory, you can run:
 
 ### `npm start`
